@@ -61,7 +61,7 @@
 
 ## 🛠️ Open-Source DBaaS & Database Automation Projects
 *Open-source platforms, Kubernetes operators, and high-availability frameworks for self-hosted DBaaS capabilities.*  
-*Sorted by GitHub Stars_Count (Descending)*
+*Sorted by GitHub_Stars_Count (Descending)*
 
 ---
 
